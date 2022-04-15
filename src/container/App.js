@@ -4,7 +4,7 @@ import Banner from "../components/Banner";
 import AboutUs from "../components/About-Us";
 import Card from "../components/Card";
 import GetInTuch from "../components/Get-In-Tuch";
-import Strength from "../components/Strength";
+ import Strength from "../components/Strength";
 import FeedBack from "../components/FeedBack";
 import Instructors from "../components/Instructors";
 import Protfolio from "../components/Protfolio";
